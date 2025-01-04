@@ -17,3 +17,5 @@ function return_normal() {
    boldWords.forEach(function(word) {
        word.style.color = 'black';
    });
+
+}
